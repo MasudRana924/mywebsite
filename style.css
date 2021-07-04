@@ -31,6 +31,12 @@ h1{
     background-repeat: no-repeat;
 }
 section{
-    height:400px;
+    height: 400px;
     padding-top: 50px;
+    margin-bottom:100px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
